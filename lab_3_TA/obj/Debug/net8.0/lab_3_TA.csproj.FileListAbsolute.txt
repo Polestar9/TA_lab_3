@@ -1,0 +1,16 @@
+C:\Users\Poly_9\source\repos\lab_3_TA\bin\Debug\net8.0\lab_3_TA.exe
+C:\Users\Poly_9\source\repos\lab_3_TA\bin\Debug\net8.0\lab_3_TA.deps.json
+C:\Users\Poly_9\source\repos\lab_3_TA\bin\Debug\net8.0\lab_3_TA.runtimeconfig.json
+C:\Users\Poly_9\source\repos\lab_3_TA\bin\Debug\net8.0\lab_3_TA.dll
+C:\Users\Poly_9\source\repos\lab_3_TA\bin\Debug\net8.0\lab_3_TA.pdb
+C:\Users\Poly_9\source\repos\lab_3_TA\obj\Debug\net8.0\lab_3_TA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poly_9\source\repos\lab_3_TA\obj\Debug\net8.0\lab_3_TA.AssemblyInfoInputs.cache
+C:\Users\Poly_9\source\repos\lab_3_TA\obj\Debug\net8.0\lab_3_TA.AssemblyInfo.cs
+C:\Users\Poly_9\source\repos\lab_3_TA\obj\Debug\net8.0\lab_3_TA.csproj.CoreCompileInputs.cache
+C:\Users\Poly_9\source\repos\lab_3_TA\obj\Debug\net8.0\lab_3_TA.dll
+C:\Users\Poly_9\source\repos\lab_3_TA\obj\Debug\net8.0\refint\lab_3_TA.dll
+C:\Users\Poly_9\source\repos\lab_3_TA\obj\Debug\net8.0\lab_3_TA.pdb
+C:\Users\Poly_9\source\repos\lab_3_TA\obj\Debug\net8.0\lab_3_TA.genruntimeconfig.cache
+C:\Users\Poly_9\source\repos\lab_3_TA\obj\Debug\net8.0\ref\lab_3_TA.dll
+C:\Users\Poly_9\source\repos\lab_3_TA\obj\Debug\net8.0\lab_3_TA.Properties.Resources.resources
+C:\Users\Poly_9\source\repos\lab_3_TA\obj\Debug\net8.0\lab_3_TA.csproj.GenerateResource.cache
